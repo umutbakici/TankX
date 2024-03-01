@@ -1,0 +1,9982 @@
+[
+    {
+        "base_asset": "ETH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QTUM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BCC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GAS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HSR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OAX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MCO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ICN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MCO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WTC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WTC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "QTUM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "YOYO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OMG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OMG",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ZRX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ZRX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STRAT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STRAT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SNGLS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SNGLS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BQX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BQX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "KNC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KNC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FUN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FUN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SNM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SNM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SALT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SALT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MDA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MDA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MTL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MTL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SUB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SUB",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MTH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MTH",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ENG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ENG",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AST",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AST",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DASH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DASH",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "OAX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ICN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BTG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BTG",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "EVX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "EVX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "REQ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "REQ",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "VIB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VIB",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "HSR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "POWR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "POWR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ARK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ARK",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "YOYO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MOD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MOD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STORJ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STORJ",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VEN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "YOYO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "POWR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "VEN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VEN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "KMD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KMD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NULS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RCN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RCN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "RCN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NULS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NULS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "RDN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RDN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "RDN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XMR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XMR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DLT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WTC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DLT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DLT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AMB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AMB",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AMB",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BCC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BCC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BCPT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCPT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BCPT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ARN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ARN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GVT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GVT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CDT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CDT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GXS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GXS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "POE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "POE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "QSP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QSP",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "QSP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BTS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BTS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BTS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XZC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XZC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XZC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LSK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LSK",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LSK",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FUEL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FUEL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BCD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DGD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DGD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ADX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ADX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ADX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "PPT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PPT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CMT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CMT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CMT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CND",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CND",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CND",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LEND",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LEND",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WABI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WABI",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WABI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TNB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TNB",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ICX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ICX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ICX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "OST",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OST",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "OST",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ELF",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ELF",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AION",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AION",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AION",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NEBL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NEBL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BRD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BRD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BRD",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MCO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "EDO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "EDO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WINGS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WINGS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NAV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NAV",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NAV",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LUN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LUN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "TRIG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TRIG",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "TRIG",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "APPC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "APPC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "APPC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "VIBE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VIBE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "RLC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RLC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "RLC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "INS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "INS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "PIVX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PIVX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "IOST",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "IOST",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CHAT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CHAT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STEEM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STEEM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STEEM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NANO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NANO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NANO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "VIA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VIA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "VIA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BLZ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BLZ",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BLZ",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RPX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RPX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "RPX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NCASH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NCASH",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NCASH",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "POA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "POA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "POA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "STORM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STORM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STORM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "QTUM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "QTUM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XEM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XEM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XEM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WAN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WAN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WAN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WPR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WPR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "QLC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QLC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SYS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SYS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SYS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "QLC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GRS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GRS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CLOAK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CLOAK",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GNT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LOOM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LOOM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LOOM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BCN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "REP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "REP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "TUSD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "TUSD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "TUSD",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ZEN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ZEN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ZEN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SKY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SKY",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SKY",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CVC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CVC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CVC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "THETA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "THETA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "THETA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TUSD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IOTX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "IOTX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "QKC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QKC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AGI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AGI",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AGI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NXS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NXS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NXS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DATA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DATA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ICX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NPXS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NPXS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "VEN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KEY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KEY",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NAS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NAS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NAS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MFT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MFT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MFT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DENT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DENT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ARDR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ARDR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ARDR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NULS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DOCK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DOCK",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "POLY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "POLY",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PHX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PHX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "PHX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "HC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PAX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PAX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PAX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PAX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "RVN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DCR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DCR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "USDC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MITH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MITH",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BCHABC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCHSV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCHABC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCHSV",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "REN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "REN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "USDC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "XRP"
+    },
+    {
+        "base_asset": "XZC",
+        "quote_asset": "XRP"
+    },
+    {
+        "base_asset": "PAX",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "USDC",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "USDC",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BCHABC",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BCHABC",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BCHABC",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BCHSV",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BCHSV",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BCHSV",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "USDS"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "USDS"
+    },
+    {
+        "base_asset": "USDS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "USDS",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "USDS",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "USDS",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ONG",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ONG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ONG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ZRX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ZRX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FET",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FET",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FET",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XMR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XMR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "IOST",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CELR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CELR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CELR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "DASH",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DASH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NANO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OMG",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "OMG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "THETA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MITH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "PHB",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PHB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PHB",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "PHB",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "PHB",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "TFUEL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TFUEL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TFUEL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TFUEL",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "TFUEL",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "TFUEL",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BTCB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCPT",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BCPT",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BCPT",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "USDSB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "USDSB",
+        "quote_asset": "USDS"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ERD",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ERD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ERD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ERD",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ERD",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "DUSK",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DUSK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DUSK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DUSK",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "DUSK",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BGBP",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "COS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "COS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "COS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TUSDB",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "NPXS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NPXS",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "COCOS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "COCOS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "COCOS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MTL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TOMO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TOMO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TOMO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TOMO",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "PERL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PERL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PERL",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "PERL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DENT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MFT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KEY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "STORM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOCK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WAN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FUN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CVC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "TRX"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "TRX"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BAND",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BAND",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BAND",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BEAM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BEAM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BEAM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XTZ",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XTZ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XTZ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "REN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RVN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HBAR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "HBAR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HBAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NKN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NKN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NKN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BCHABC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "STX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KAVA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "KAVA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KAVA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "ARPA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ARPA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ARPA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "IOTX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RLC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MCO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CTXC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CTXC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CTXC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "PAX"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "TROY",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TROY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TROY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "QTUM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "VITE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "VITE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VITE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FTT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FTT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FTT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "EUR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EUR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OGN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "OGN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OGN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DREP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DREP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DREP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BULL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BULL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BEAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BEAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ETHBULL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETHBULL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ETHBEAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETHBEAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TCT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TCT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TCT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WRX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WRX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WRX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ICX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LSK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LTO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LTO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LTO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DASH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XTZ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EOSBULL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EOSBULL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EOSBEAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EOSBEAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XRPBULL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XRPBULL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XRPBEAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XRPBEAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BAT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NANO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RVN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STRAT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STRAT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "STRAT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AION",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AION",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MBL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MBL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MBL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "COTI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "COTI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "COTI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TOMO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XMR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ZEC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BNBBULL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNBBULL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BNBBEAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNBBEAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STPT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "STPT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STPT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "ZAR"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "ZAR"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "ZAR"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "ZAR"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "ZAR"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "WTC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DATA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DATA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XZC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "IDRT"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "IDRT"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "IDRT"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "IDRT"
+    },
+    {
+        "base_asset": "CTSI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CTSI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CTSI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CTSI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HIVE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "HIVE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HIVE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CHR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CHR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CHR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTCUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTCDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GXS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ARDR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ERD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LEND",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HBAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WRX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MDT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MDT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MDT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "STMX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STMX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STMX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KNC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KNC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "REP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "REP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IQ",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "IQ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PNT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "GBP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DGB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DGB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "UAH"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "UAH"
+    },
+    {
+        "base_asset": "COMP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "COMP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "COMP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "COMP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "BKRW",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BKRW",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ZEN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SNX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SNX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SNX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SNX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETHUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETHDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ADAUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ADADOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LINKUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LINKDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VTHO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "VTHO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "VTHO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DCR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DGB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GBP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "STORJ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IRIS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "IRIS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "IRIS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MKR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MKR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MKR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MKR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DAI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DAI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DAI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DAI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LEND",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ZRX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DCR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "STORJ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "AUD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FIO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FIO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FIO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BNBUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNBDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XTZUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XTZDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AVA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AVA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AVA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "AUD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BAL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BAL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BAL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "YFI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "YFI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "YFI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "YFI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BLZ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KMD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BAL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BLZ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IRIS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KMD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "DAI"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "DAI"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "DAI"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "DAI"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "DAI"
+    },
+    {
+        "base_asset": "JST",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "JST",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "JST",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "JST",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SRM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SRM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SRM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SRM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ANT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ANT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ANT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ANT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CRV",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CRV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CRV",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CRV",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OCEAN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "OCEAN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OCEAN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OCEAN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NMR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NMR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NMR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IDEX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "IDEX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RSR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RSR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RSR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RSR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PAXG",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PAXG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PAXG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PAXG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WNXM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WNXM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WNXM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WNXM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRB",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TRB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TRB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TRB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "BZRX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BZRX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BZRX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BZRX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WBTC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WBTC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SUSHI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SUSHI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SUSHI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SUSHI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "YFII",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "YFII",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "YFII",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "YFII",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KSM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "KSM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KSM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KSM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DIA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DIA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DIA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DIA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FIO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "UMA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "UMA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EOSUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EOSDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRXUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRXDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XRPUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XRPDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOTUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOTDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SRM",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "BEL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BEL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BEL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BEL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WING",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WING",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SWRV",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SWRV",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WING",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WING",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LTCUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LTCDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LEND",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "CREAM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CREAM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NBS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NBS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OXT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OXT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SUN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SUN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HNT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BAKE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BURGER",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "FLM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FLM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FLM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FLM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SCRT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SCRT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SPARTA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "UNIUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "UNIDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ORN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ORN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "UTK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "UTK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XVS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XVS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XVS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XVS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ALPHA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ALPHA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ALPHA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ALPHA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VIDT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VIDT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AAVE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "AAVE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AAVE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AAVE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AAVE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AAVE",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SXPUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SXPDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "BKRW"
+    },
+    {
+        "base_asset": "SXP",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FILUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FILDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "YFIUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "YFIDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AERGO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AERGO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EASY",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AUDIO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AUDIO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AUDIO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CTK",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CTK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CTK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CTK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCHUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCHDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BOT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BOT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "AKRO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AKRO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KP3R",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "KP3R",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HARD",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "HARD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HARD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HARD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "RENBTC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RENBTC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DNT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DNT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SLP",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "CVP",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "CVP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STRAX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STRAX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STRAX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STRAX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FOR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FOR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UNFI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "UNFI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "UNFI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UNFI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FRONT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FRONT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BCHA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ROSE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ROSE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ROSE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "AVA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SYS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XEM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HEGIC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "HEGIC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AAVEUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AAVEDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PROM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PROM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "SKL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SKL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SKL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "YFI",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "SUSD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SUSD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SUSD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "COVER",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "COVER",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GLM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GLM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GHST",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GHST",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SUSHIUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SUSHIDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XLMUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XLMDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "DF",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DF",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GRT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GRT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GRT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "JUV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "JUV",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "JUV",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PSG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PSG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PSG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "BVND"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "BVND"
+    },
+    {
+        "base_asset": "1INCH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "1INCH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "REEF",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "REEF",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ATM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ATM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ASR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ASR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CELO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CELO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RIF",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RIF",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XLM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "GRT",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "BTCST",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BTCST",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTCST",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRU",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TRU",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TRU",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DEXE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DEXE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "USDC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TUSD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PAX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CKB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CKB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CKB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TWT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TWT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TWT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FIRO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FIRO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FIRO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BETH",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "NGN"
+    },
+    {
+        "base_asset": "PROS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LIT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LIT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LIT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "VAI"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "VAI"
+    },
+    {
+        "base_asset": "SFP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SFP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SFP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "FXS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FXS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DODO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DODO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DODO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FRONT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "EASY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BAKE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UFT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "UFT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "1INCH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BAND",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GRT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "IOST",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OMG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "REEF",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ACM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ACM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ACM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AUCTION",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AUCTION",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PHA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PHA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "TVK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TVK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BADGER",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BADGER",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BADGER",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FIS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FIS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FIS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "OM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "POND",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "POND",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "POND",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DEGO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DEGO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DEGO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "ALICE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ALICE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ALICE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "BIFI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BIFI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LINA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LINA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LINA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PERP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PERP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PERP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RAMP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RAMP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RAMP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SUPER",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SUPER",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SUPER",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CFX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CFX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CFX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "RVN",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "THETA",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EPS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "EPS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EPS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AUTO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AUTO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AUTO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TKO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TKO",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "TKO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TKO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PUNDIX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "PUNDIX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "BTT",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "TLM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TLM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TLM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "1INCHUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "1INCHDOWN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "UAH"
+    },
+    {
+        "base_asset": "ONT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "MIR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MIR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MIR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BAR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FORTH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FORTH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FORTH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "HOT",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "WRX",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "EZ",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "EZ",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BAKE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BURGER",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BURGER",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SLP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SLP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "TRX",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "VET",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "AR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "POLS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "POLS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "POLS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "POLS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MDX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MDX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MDX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MDX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MASK",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MASK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MASK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LPT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LPT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LPT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LPT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "UAH"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "AGIX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "NU",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NU",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NU",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NU",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RLC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CELR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ATM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ZEN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "THETA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WIN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KAVA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XEM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ATA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ATA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ATA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ATA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GTC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GTC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GTC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GTC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TORN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TORN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TORN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TORN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "BAKE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "COTI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KEEP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KEEP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "KEEP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KEEP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "SC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CHR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STMX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HNT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FTT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DOCK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "ERN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ERN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ERN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "KLAY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KLAY",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "KLAY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KLAY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "UTK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "IOTX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PHA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "UAH"
+    },
+    {
+        "base_asset": "BOND",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BOND",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BOND",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BOND",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MLN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MLN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MLN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MLN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GRT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "AAVE",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "DEXE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LTO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ADX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "QUICK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QUICK",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "QUICK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "C98",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "C98",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "C98",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "C98",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CLV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CLV",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CLV",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CLV",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "QNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QNT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "QNT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "QNT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FLOW",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FLOW",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FLOW",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FLOW",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XEC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "TVK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MINA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MINA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MINA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MINA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RAY",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RAY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RAY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FARM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FARM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FARM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FARM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ALPACA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ALPACA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ALPACA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ALPACA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TLM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "QUICK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ORN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MBOX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MBOX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MBOX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MBOX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VGX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VGX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FOR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "REQ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GHST",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TRU",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "FIS",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "WAXP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WAXP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WAXP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WAXP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TRIBE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TRIBE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "TRIBE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "TRIBE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GNO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GNO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GNO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GNO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ARPA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PROM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MTL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OGN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XEC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "C98",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "POLY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ELF",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DYDX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DYDX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DYDX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DYDX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ELF",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "POLY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IDEX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VIDT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "USDP"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "USDP"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "USDP"
+    },
+    {
+        "base_asset": "USDP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "USDP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "KSM",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "SUN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ILV",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ILV",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ILV",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ILV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "REN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "YGG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "YGG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "YGG",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "YGG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SYS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DF",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ARPA",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "UAH"
+    },
+    {
+        "base_asset": "FET",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ARPA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LSK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "ALICE",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "FIDA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FIDA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FIDA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FIDA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DENT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FRONT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CVP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AGLD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AGLD",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AGLD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AGLD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RAD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RAD",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RAD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RAD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "HIVE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STPT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BETA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BETA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BETA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BETA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "RARE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RARE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RARE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RARE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "TROY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SSV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SSV",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LAZIO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LAZIO",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "LAZIO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LAZIO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CHESS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CHESS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CHESS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CHESS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "SCRT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ADX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AUCTION",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CELO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "NU",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "NU",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "REEF",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "REEF",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "DOGE"
+    },
+    {
+        "base_asset": "DAR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DAR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DAR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "DAR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BNX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BNX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BNX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BNX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RGT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RGT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RGT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RGT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LAZIO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OXT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "UAH"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "AUD",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "MOVR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MOVR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MOVR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MOVR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CITY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CITY",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CITY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CITY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ENS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ENS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ENS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ENS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "KP3R",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "QI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "QI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "QI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "QI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PORTO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PORTO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PORTO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PORTO",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "POWR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "POWR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SLP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "FIS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "CHR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FIS",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "VGX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "JASMY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "JASMY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "JASMY",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "JASMY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AMP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AMP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AMP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AMP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PLA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PLA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PLA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PLA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PYR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PYR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PYR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RNDR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RNDR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RNDR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ALCX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ALCX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ALCX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SANTOS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SANTOS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SANTOS",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "SANTOS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BEL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "COCOS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DENT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ENJ",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "SLP",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "ANY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ANY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ANY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BICO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BICO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BICO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FLUX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FLUX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FLUX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ALICE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "FXS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "REQ",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "VOXEL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VOXEL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "VOXEL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "VOXEL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "COS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CTXC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MANA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MINA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XTZ",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "HIGH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HIGH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HIGH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CVX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CVX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CVX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PEOPLE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PEOPLE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PEOPLE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OOKI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OOKI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "COCOS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "GXS",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MDT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NULS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SPELL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SPELL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SPELL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UST",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "UST",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UST",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "JOE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "JOE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "JOE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DUSK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "UST"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ROSE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "VOXEL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ALICE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "UST"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "OOKI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ACH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ACH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ACH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IMX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "IMX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "IMX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GLMR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GLMR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GLMR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "BIDR"
+    },
+    {
+        "base_asset": "DYDX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FARM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FOR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "JASMY",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LINA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "OOKI",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ROSE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "UMA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XTZ",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LOKA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LOKA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "LOKA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LOKA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "UST"
+    },
+    {
+        "base_asset": "CRV",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "HIGH",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "ROSE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SCRT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "API3",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "API3",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "API3",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTTC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BTTC",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "BTTC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ACA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ACA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ACA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ANC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ANC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ANC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BDOT",
+        "quote_asset": "DOT"
+    },
+    {
+        "base_asset": "XNO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XNO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XNO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "XNO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "COS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "KAVA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ONE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "WOO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WOO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "WOO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "WOO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CELR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "PEOPLE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SLP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SPELL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SPELL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "TFUEL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AXS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "DAR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "IDEX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ALPINE",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "ALPINE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ALPINE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ALPINE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "T",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "T",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "API3",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "BETA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "TLM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ASTR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ASTR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "API3",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "GLMR",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MBOX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ANC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "KSM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "UMA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "KDA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KDA",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KDA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ALPINE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LUNA",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "TWT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BSW",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BSW",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BSW",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "JASMY",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SANTOS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "BIFI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "IMX",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "MULTI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MULTI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MULTI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BSW",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "WAVES",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "UST"
+    },
+    {
+        "base_asset": "ASTR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ASTR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BSW",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "FTT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FUN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PORTO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STEEM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ZIL",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "APE",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "AUDIO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BTTC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GMT",
+        "quote_asset": "AUD"
+    },
+    {
+        "base_asset": "MBL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MOB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MOB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MOB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NEXO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NEXO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NEXO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "REI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "REI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "REI",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "JASMY",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "KNC",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "GBP"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LDO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LDO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LDO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ENS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "DAR",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "DAR",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "EPX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EPX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "GAL",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "STEEM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "CVC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "REI",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "DREP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AKRO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PUNDIX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LUNC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "USTC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "KEY",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "ASR",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FIRO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NKN",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "GTO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SNX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WBTC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BEL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LIT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LEVER",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LEVER",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BURGER",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "PEOPLE",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "UNFI",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BOND",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STORJ",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "WING",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "GLM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SSV",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STG",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "STG",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ANKR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ARK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BETH",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LOOM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "SNM",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AMB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "LUNC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PHB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GAS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NEBL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "PROS",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "VIB",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GMX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GMX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "GMX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AGIX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "NEBL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SNT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "POLYX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "POLYX",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "POLYX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "PLN"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "PLN"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "PLN"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "BRL"
+    },
+    {
+        "base_asset": "QKC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "OSMO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OSMO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OSMO",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HFT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HFT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HFT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ARPA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "PHB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VITE",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HOOK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HOOK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "HOOK",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "HOOK",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MAGIC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MAGIC",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "MAGIC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BUSD",
+        "quote_asset": "RON"
+    },
+    {
+        "base_asset": "HIFI",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "HIFI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RPL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RPL",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "RPL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PROS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FET",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "GFT",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "AGIX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "RON"
+    },
+    {
+        "base_asset": "GNS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GNS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SYN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SYN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VIB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SSV",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LQTY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "LQTY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AMB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BETH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CFX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "STX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "USTC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GAS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GLM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PROM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "QKC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "UFT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ID",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ID",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ID",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AGIX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LOOM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "OAX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "ID",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ID",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ID",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "LDO",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "SSV",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "RDNT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RDNT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RDNT",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "JOE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MAGIC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "PLN"
+    },
+    {
+        "base_asset": "ACH",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XVS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "RON"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "RON"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "ARS"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "WBTC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EDU",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "EDU",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "EDU",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "EDU",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "EDU",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "EDU",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "EUR"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "AERGO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RNDR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PEPE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PEPE",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "FLOKI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FLOKI",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "OG",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PEPE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "WBETH",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "AST",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "SNT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "FLOKI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "CITY",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "COMBO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "COMBO",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "COMBO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "RAD",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "ARS"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PAXG",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MAV",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MAV",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MAV",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "CFX",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "PENDLE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PENDLE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PENDLE",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "MAV",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "OCEAN",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "TUSD",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ARKM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ARKM",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "ARKM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ARKM",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ARKM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WBETH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ACA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "COMP",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "COMP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XEC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "QUICK",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "WLD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "WLD",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "FDUSD",
+        "quote_asset": "BUSD"
+    },
+    {
+        "base_asset": "FDUSD",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ARKM",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "WLD",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "WLD",
+        "quote_asset": "RUB"
+    },
+    {
+        "base_asset": "AMP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "OGN",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ASR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ATM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ACM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BAR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "JUV",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PSG",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SEI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "SEI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SEI",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "SEI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SEI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CYBER",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "CYBER",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "CYBER",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "CYBER",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "CYBER",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CYBER",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "SEI",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "LPT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SOL",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "TOMO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "UNFI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XRP",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "DOGE",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "CYBER",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MTL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ARK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "CREAM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "GFT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "IQ",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "USDT",
+        "quote_asset": "VAI"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "FDUSD",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "FRONT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "NTRN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NTRN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NTRN",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "FRONT",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "LEVER",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ADA",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "TRB",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ATOM",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "BAND",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BCH",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "LOOM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ALGO",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "FTM",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "NEAR",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "STRAX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "TIA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "TIA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "TIA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "MEME",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MEME",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MEME",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "MEME",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "MEME",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ORDI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ORDI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ORDI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "EGLD",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "FET",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "GAS",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ORDI",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ORDI",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "RNDR",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "BEAMX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ARK",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BEAMX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "CAKE",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "DYDX",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "PIVX",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RUNE",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "TIA",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "GALA",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "WLD",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "GAS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "NTRN",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "VIC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "VIC",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VIC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BLUR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BLUR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BLUR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BLUR",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "SUPER",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "USTC",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "USTC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "DYDX",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "VANRY",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "VANRY",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BTC",
+        "quote_asset": "AEUR"
+    },
+    {
+        "base_asset": "AEUR",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ETH",
+        "quote_asset": "AEUR"
+    },
+    {
+        "base_asset": "EUR",
+        "quote_asset": "AEUR"
+    },
+    {
+        "base_asset": "AUCTION",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "LUNC",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SUPER",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "JTO",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "JTO",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "JTO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "1000SATS",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "1000SATS",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "1000SATS",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SHIB",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "SAND",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "MEME",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "FIDA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BONK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "BONK",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "BONK",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ACE",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ACE",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ACE",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ACE",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ACE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "BLZ",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "RARE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "VANRY",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "NFP",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NFP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "NFP",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "NFP",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "NFP",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "NFP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ARB",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "AVAX",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "DOT",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "INJ",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "MATIC",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "OP",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ORDI",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "AI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "AI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "AI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "AI",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "AI",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "AI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ICP",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "LDO",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "MOVR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "XAI",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XAI",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "XAI",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "XAI",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "XAI",
+        "quote_asset": "TUSD"
+    },
+    {
+        "base_asset": "XAI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "SKL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "STX",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "TIA",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "MANTA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MANTA",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "MANTA",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "MANTA",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "MANTA",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ENS",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ETC",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "SUI",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "TIA",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "CHZ",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "MANTA",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "ALT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ALT",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "ALT",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "ALT",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "ALT",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "APT",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "BLUR",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "JUP",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "JUP",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "JUP",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "ALT",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "MAGIC",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "SEI",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "PYTH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PYTH",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PYTH",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "PYTH",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "RONIN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "RONIN",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "RONIN",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "RONIN",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "DYM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "DYM",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "DYM",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "DYM",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "JUP",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "PENDLE",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "PIXEL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PIXEL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PIXEL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PIXEL",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "PIXEL",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "STRK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STRK",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "STRK",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "STRK",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "FIL",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "HBAR",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "PENDLE",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "WLD",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "CKB",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "COTI",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "LDO",
+        "quote_asset": "TRY"
+    },
+    {
+        "base_asset": "UNI",
+        "quote_asset": "USDC"
+    },
+    {
+        "base_asset": "PORTAL",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "PORTAL",
+        "quote_asset": "USDT"
+    },
+    {
+        "base_asset": "PORTAL",
+        "quote_asset": "BNB"
+    },
+    {
+        "base_asset": "PORTAL",
+        "quote_asset": "FDUSD"
+    },
+    {
+        "base_asset": "PORTAL",
+        "quote_asset": "TRY"
+    }
+]

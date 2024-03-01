@@ -1,0 +1,202 @@
+[
+    {
+        "base_asset": "ETH",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LTC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BCC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "GAS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "HSR",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MCO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "WTC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QTUM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "YOYO",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "OMG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "ZRX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "STRAT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SNGLS",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "BQX",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "KNC",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "FUN",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SNM",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "SALT",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "MDA",
+        "quote_asset": "BTC"
+    },
+    {
+        "base_asset": "QTUM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "EOS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BNB",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "OAX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "DNT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MCO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ICN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "WTC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LRC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "OMG",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "ZRX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "STRAT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SNGLS",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "BQX",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "KNC",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "FUN",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SNM",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "NEO",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "IOTA",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "LINK",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "XVG",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "SALT",
+        "quote_asset": "ETH"
+    },
+    {
+        "base_asset": "MDA",
+        "quote_asset": "ETH"
+    }
+]
